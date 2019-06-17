@@ -1,4 +1,4 @@
 # final-project-presentation
-[Server](https://github.com/lucia-blanco/zisuka-back)  
-[Admin](https://github.com/lucia-blanco/zisuka-admin)  
-[Weather](https://github.com/lucia-blanco/zisuka-weather)  
+[Core](ttps://zisuka-back.ddns.net) [Repository](https://github.com/lucia-blanco/zisuka-back)  
+[ZAdmin](https://zadmin.web.app/) [Repository](https://github.com/lucia-blanco/zisuka-admin)  
+[ZWeather](https://weatherz.web.app/) [Repository](https://github.com/lucia-blanco/zisuka-weather)  
